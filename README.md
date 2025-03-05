@@ -5,8 +5,11 @@
 <br>🔍 You can see more on: www.carolinamirandasite.com</br>
 🇧🇷 🇱🇺 Brazilian | Luxemburgish
 ##
-tetx
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carol-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carol-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 <!--
 **caroliinamiranda/caroliinamiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
